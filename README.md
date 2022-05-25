@@ -8,4 +8,4 @@ Download JSON configure for Windows Theme:
 Font: CaskaydiaCove Nerd Font: https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip
 Or: https://www.nerdfonts.com/font-downloads
 
-Wallpaper: 
+Wallpaper: https://github.com/viniciusmorgado/win-terminal-theme/blob/main/Desktop%20Wallpaper%20-%20Regular-02.png
